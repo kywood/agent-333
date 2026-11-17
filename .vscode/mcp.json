@@ -1,0 +1,24 @@
+{
+  "servers": {
+    "miniapp-chrome-devtools": {
+      "command": "C:\\Users\\talls\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "args": [
+        "c:\\Users\\talls\\AppData\\Roaming\\Code\\User\\globalStorage\\miniapp-platform.developer-assistant\\mcp\\chrome-devtools-mcp\\installation\\node_modules\\chrome-devtools-mcp\\build\\src\\bin\\chrome-devtools-mcp.js"
+      ],
+      "env": {
+        "MINIAPP_CHROME_DEVTOOLS_MCP_TARGET_WS": ""
+      }
+    }
+  },
+  "mcpServers": {
+    "miniapp-chrome-devtools": {
+      "command": "C:\\Users\\talls\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "args": [
+        "c:\\Users\\talls\\AppData\\Roaming\\Code\\User\\globalStorage\\miniapp-platform.developer-assistant\\mcp\\chrome-devtools-mcp\\installation\\node_modules\\chrome-devtools-mcp\\build\\src\\bin\\chrome-devtools-mcp.js"
+      ],
+      "env": {
+        "MINIAPP_CHROME_DEVTOOLS_MCP_TARGET_WS": ""
+      }
+    }
+  }
+}
